@@ -19,7 +19,7 @@ CPSC-4800
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-# <img src="images/logo.png" alt="Logo" width="80" height="80">
+# <img src="images/house.jpeg" alt="Logo" width="80" height="80">
 ![Titanic]("images/house.jpeg")
 
 In this project, we performed explorotary data analysis and answered three hypotheses based on the dataset. we used statiscts to analyze this data.
