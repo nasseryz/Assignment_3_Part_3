@@ -22,7 +22,7 @@ CPSC-4800
 # <img src="images/house.jpeg" alt="Titanic" width="500" height="350">
 
 
-In this project, we performed explorotary data analysis and answered three hypotheses based on the dataset. we used statiscts to analyze this data.
+In this project, we performed explorotary data analysis and see if there is any correlation between the variables and analyze the distribution of the dataset.
 Here are three possible hypotheses:
 * The survival rate is associated to the class of passenger
 * The survival rate is associated to the gender
@@ -36,6 +36,7 @@ We need Pandas and MatPlotLib packages to perform analysis and draw plots.
 
   ```sh
   import pandas as pd
+  import numpy as np
   import matplotlib.pyplot as plt
   ```
   
@@ -44,10 +45,14 @@ We need Pandas and MatPlotLib packages to perform analysis and draw plots.
 
 - [x] Import pachages
 - [x] Read dataset
-- [x] Determine if the survival rate is associated to the class of passenger
-- [x] Determine if the survival rate is associated to the gender
-- [x] Determine the survival rate is associated to the age
-- [x] Make plots
+- [x] Analyze the distribution of the target variable
+- [x] Analyze the correlation between variables
+- [x] Visualize the correlation using a heatmap
+  - [ ] Visualize the correlation using a heatmap using the seaborn library.
+- [x] Analyze the distribution of each variable
+  - [ ] Analyze the distribution of each variable using histograms or box plots.
+- [x] Analyze the relationship between variables
+  - [x] Analyze the relationship between variables using scatter plots or pair plots.
 
 
 <!-- CONTACT -->
