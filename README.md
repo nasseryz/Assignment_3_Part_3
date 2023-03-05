@@ -46,11 +46,11 @@ We need Pandas and MatPlotLib packages to perform analysis and draw plots.
 - [x] Analyze the correlation between variables
   - [ ] Analyze the correlation between variables using the `corr` method.
 - [x] Visualize the correlation using a heatmap
-  - [ ] Visualize the correlation using a heatmap using the seaborn library.
+  - [ ] Visualize the correlation using a heatmap using the `seaborn` library.
 - [x] Analyze the distribution of each variable
-  - [ ] Analyze the distribution of each variable using histograms or box plots.
+  - [ ] Analyze the distribution of each variable using `histograms` or `box plots`.
 - [x] Analyze the relationship between variables
-  - [x] Analyze the relationship between variables using scatter plots or pair plots.
+  - [x] Analyze the relationship between variables using `scatter plots` or `pair plots`.
 
 
 <!-- CONTACT -->
