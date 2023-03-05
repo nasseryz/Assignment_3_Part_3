@@ -42,7 +42,9 @@ We need Pandas and MatPlotLib packages to perform analysis and draw plots.
 - [x] Import pachages
 - [x] Read dataset
 - [x] Analyze the distribution of the target variable
+  - [ ] Analyze the distribution of the target variable, `SalePrice`, using the `hist` method.
 - [x] Analyze the correlation between variables
+  - [ ] Analyze the correlation between variables using the `corr` method.
 - [x] Visualize the correlation using a heatmap
   - [ ] Visualize the correlation using a heatmap using the seaborn library.
 - [x] Analyze the distribution of each variable
