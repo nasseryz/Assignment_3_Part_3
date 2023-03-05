@@ -23,11 +23,7 @@ CPSC-4800
 
 
 In this project, we performed explorotary data analysis and see if there is any correlation between the variables and analyze the distribution of the dataset.
-Here are three possible hypotheses:
-* The survival rate is associated to the class of passenger
-* The survival rate is associated to the gender
-* The survival rate is associated to the age
-And For each hypothesis, we have a plot.
+
 
 
 ### Prerequisites
