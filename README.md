@@ -1,5 +1,5 @@
-# Assignment_3_Part_3
-CPSC-4800
+# House Price
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -22,7 +22,7 @@ CPSC-4800
 # <img src="images/house.jpeg" alt="Titanic" width="500" height="350">
 
 
-In this project, we performed explorotary data analysis and see if there is any correlation between the variables and analyze the distribution of the dataset.
+In this project, we performed exploratory data analysis to determine whether there is any correlation between the variables and analyze the distribution of the dataset.
 
 
 
